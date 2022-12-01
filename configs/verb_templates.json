@@ -1,0 +1,34 @@
+[
+	{
+		"tid": "verb_1",
+		"template": [
+			{"flag": "obligatory",
+			"obj_id": ["VB", "VBD", "VBZ"]}
+		],
+		"template_result": "VP"
+	},
+	{
+		"tid": "verb_get",
+		"template": [
+			{"flag": "obligatory",
+			"obj_id": ["GET", "GOT", "GETS"]},
+			{"flag": "optional",
+			"obj_id": "NOT"},
+			{"flag": "obligatory",
+			"obj_id": ["VBG", "VBN"]}
+		],
+		"template_result": "VP"
+	},
+	{
+		"tid": "verb_2",
+		"template": [
+			{"flag": "optional",
+			"obj_id": "MV"},
+			{"flag": "optional",
+			"obj_id": "NOT"},
+			{"flag": "optional",
+			"obj_id": "VB"}
+		],
+		"template_result": "VP"
+	}
+]

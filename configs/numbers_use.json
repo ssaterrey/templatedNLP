@@ -1,0 +1,258 @@
+[
+	{
+		"id": "zero",
+		"meanings": [
+			{
+				"value": "0"
+			}
+		]
+	},
+	{
+		"id": "one",
+		"meanings": [
+			{
+				"value": "1"
+			}
+		]
+	},
+	{
+		"id": "two",
+		"meanings": [
+			{
+				"value": "2"
+			}
+		]
+	},
+	{
+		"id": "three",
+		"meanings": [
+			{
+				"value": "3"
+			}
+		]
+	},
+	{
+		"id": "four",
+		"meanings": [
+			{
+				"value": "4"
+			}
+		]
+	},
+	{
+		"id": "five",
+		"meanings": [
+			{
+				"value": "5"
+			}
+		]
+	},
+	{
+		"id": "six",
+		"meanings": [
+			{
+				"value": "6"
+			}
+		]
+	},
+	{
+		"id": "seven",
+		"meanings": [
+			{
+				"value": "7"
+			}
+		]
+	},
+	{
+		"id": "eight",
+		"meanings": [
+			{
+				"value": "8"
+			}
+		]
+	},
+	{
+		"id": "nine",
+		"meanings": [
+			{
+				"value": "9"
+			}
+		]
+	},
+	{
+		"id": "ten",
+		"meanings": [
+			{
+				"value": "10"
+			}
+		]
+	},
+	{
+		"id": "eleven",
+		"meanings": [
+			{
+				"value": "11"
+			}
+		]
+	},
+	{
+		"id": "twelve",
+		"meanings": [
+			{
+				"value": "12"
+			}
+		]
+	},
+	{
+		"id": "thirteen",
+		"meanings": [
+			{
+				"value": "13"
+			}
+		]
+	},
+	{
+		"id": "fourteen",
+		"meanings": [
+			{
+				"value": "14"
+			}
+		]
+	},
+	{
+		"id": "fifteen",
+		"meanings": [
+			{
+				"value": "15"
+			}
+		]
+	},
+	{
+		"id": "sixteen",
+		"meanings": [
+			{
+				"value": "16"
+			}
+		]
+	},
+	{
+		"id": "seventeen",
+		"meanings": [
+			{
+				"value": "17"
+			}
+		]
+	},
+	{
+		"id": "eighteen",
+		"meanings": [
+			{
+				"value": "18"
+			}
+		]
+	},
+	{
+		"id": "nineteen",
+		"meanings": [
+			{
+				"value": "19"
+			}
+		]
+	},
+	{
+		"id": "twenty",
+		"meanings": [
+			{
+				"value": "20"
+			}
+		]
+	},
+	{
+		"id": "thirty",
+		"meanings": [
+			{
+				"value": "30"
+			}
+		]
+	},
+	{
+		"id": "fourty",
+		"meanings": [
+			{
+				"value": "40"
+			}
+		]
+	},
+	{
+		"id": "fifty",
+		"meanings": [
+			{
+				"value": "50"
+			}
+		]
+	},
+	{
+		"id": "sixty",
+		"meanings": [
+			{
+				"value": "60"
+			}
+		]
+	},
+	{
+		"id": "seventy",
+		"meanings": [
+			{
+				"value": "70"
+			}
+		]
+	},
+	{
+		"id": "eighty",
+		"meanings": [
+			{
+				"value": "80"
+			}
+		]
+	},
+	{
+		"id": "ninety",
+		"meanings": [
+			{
+				"value": "90"
+			}
+		]
+	},
+	{
+		"id": "hundred",
+		"meanings": [
+			{
+				"value": "100"
+			}
+		]
+	},
+	{
+		"id": "thousand",
+		"meanings": [
+			{
+				"value": "1000"
+			}
+		]
+	},
+	{
+		"id": "million",
+		"meanings": [
+			{
+				"value": "1000000"
+			}
+		]
+	},
+	{
+		"id": "billion",
+		"meanings": [
+			{
+				"value": "1000000000"
+			}
+		]
+	}
+]

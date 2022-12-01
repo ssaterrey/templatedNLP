@@ -1,0 +1,713 @@
+[
+	{
+		"tid": "noun_genitive",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NN",
+					"NNP"
+				]
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"POS"
+				]
+			}
+		],
+		"reference_obj_id": "None",
+		"template_result": "NG"
+	},
+	{
+		"tid": "noun_nominal",
+		"template": [
+			{
+				"flag": "optional",
+				"obj_id": [
+					"AdjP"
+				]
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NG"
+				]
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NN",
+					"NNP"
+				]
+			}
+		],
+		"reference_obj_id": "None",
+		"template_result": "NNOM"
+	},
+	{
+		"tid": "noun_phrase",
+		"template": [
+			{
+				"flag": "optional",
+				"obj_id": [
+					"AdvP"
+				]
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"DPRM",
+					"DPRF",
+					"DPRI",
+					"DPRQ"
+				]
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"DCA",
+					"DCP",
+					"DCR",
+					"DCI",
+					"PRI"
+				]
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"DPC",
+					"DPO",
+					"DPG",
+					"DPQ",
+					"DPR"
+				]
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NNOM"
+				]
+			}
+		],
+		"template_result": "NP"
+	},
+	{
+		"tid": "pronoun_phrase",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"PRN",
+					"PRO",
+					"PRI"
+				]
+			}
+		],
+		"reference_obj_id": "None",
+		"template_result": "PronP"
+	},
+	{
+		"tid": "adjective_",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"JJ",
+					"JJR",
+					"JJS"
+				]
+			}
+		],
+		"template_result": "AdjP"
+	},
+	{
+		"tid": "adverb_",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"RB",
+					"RBR",
+					"RBS"
+				]
+			}
+		],
+		"template_result": "AdvP"
+	},
+	{
+		"tid": "verb_",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VB",
+					"VBD",
+					"VBZ"
+				]
+			}
+		],
+		"template_result": "VP"
+	},
+	{
+		"tid": "verb_2",
+		"template": [
+			{
+				"flag": "obligatory",
+				"verb_req": "linking",
+				"obj_id": [
+					"VB",
+					"VBD",
+					"VBZ"
+				]
+			}
+		],
+		"template_result": "VPL"
+	},
+	{
+		"tid": "verb_3",
+		"template": [
+			{
+				"flag": "obligatory",
+				"verb_req": "transitive",
+				"obj_id": [
+					"VB",
+					"VBD",
+					"VBZ"
+				]
+			}
+		],
+		"template_result": "VPT"
+	},
+	{
+		"tid": "clause_",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VP"
+				],
+				"constituent": "verb"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SV",
+		"type": "declarative"
+	},
+	{
+		"tid": "clause_2",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VB",
+					"VBN",
+					"VBG"
+				],
+				"constituent": "verb"
+			}
+		],
+		"answer_template": [
+			{
+				"flag": "optional",
+				"obj_id": [
+					"YES",
+					"NO"
+				],
+				"constituent": "particle",
+				"source": "record"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"PRN"
+				],
+				"constituent": "subject",
+				"source": "question"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb",
+				"source": "question"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle",
+				"source": "record"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SV",
+		"type": "interrogative",
+		"questioning": "clause"
+	},
+	{
+		"tid": "clause_3",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"WHO"
+				],
+				"constituent": "wh_word"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VB",
+					"VBN",
+					"VBG",
+					"VBD",
+					"VBZ"
+				],
+				"constituent": "verb"
+			}
+		],
+		"answer_template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP"
+				],
+				"constituent": "subject",
+				"source": "record"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb",
+				"source": "question"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle",
+				"source": "question"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SV",
+		"type": "interrogative",
+		"questioning": "subject"
+	},
+	{
+		"tid": "clause_4",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"WHAT"
+				],
+				"constituent": "wh_word"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"DO",
+					"DONE",
+					"DOING"
+				],
+				"constituent": "verb"
+			}
+		],
+		"answer_template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject",
+				"source": "question"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb",
+				"source": "question"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle",
+				"source": "question"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VB",
+					"VBN",
+					"VBG",
+					"VBD",
+					"VBZ"
+				],
+				"constituent": "verb",
+				"source": "record"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SV",
+		"type": "interrogative",
+		"questioning": "verb"
+	},
+	{
+		"tid": "clause_5",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"ANY"
+				],
+				"constituent": "subject"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VB",
+					"VBN",
+					"VBG"
+				],
+				"constituent": "verb"
+			}
+		],
+		"answer_template": [
+			{
+				"flag": "optional",
+				"obj_id": [
+					"YES",
+					"NO"
+				],
+				"constituent": "particle",
+				"source": "record"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject",
+				"source": "question"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb",
+				"source": "question"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle",
+				"source": "record"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SV",
+		"type": "interrogative",
+		"questioning": "subject"
+	},
+	{
+		"tid": "clause_6",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"DO",
+					"DONE",
+					"DOING"
+				],
+				"constituent": "verb"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"ANYTHING"
+				],
+				"constituent": "object"
+			}
+		],
+		"answer_template": [
+			{
+				"flag": "optional",
+				"obj_id": [
+					"YES",
+					"NO"
+				],
+				"constituent": "particle",
+				"source": "record"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"PRN"
+				],
+				"constituent": "subject",
+				"source": "question"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"AVB",
+					"AVBD",
+					"AVBZ",
+					"AVAM",
+					"AVERE"
+				],
+				"constituent": "aux_verb",
+				"source": "question"
+			},
+			{
+				"flag": "optional",
+				"obj_id": [
+					"NOT"
+				],
+				"constituent": "particle",
+				"source": "record"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VB",
+					"VBN",
+					"VBG"
+				],
+				"constituent": "verb"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SV",
+		"type": "interrogative",
+		"questioning": "verb"
+	},
+	{
+		"tid": "clause_7",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VPL"
+				],
+				"constituent": "verb"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"AdjP"
+				],
+				"constituent": "complement"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SVC",
+		"type": "declarative"
+	},
+	{
+		"tid": "clause_8",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "subject"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"VPT"
+				],
+				"constituent": "verb"
+			},
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"NP",
+					"PronP"
+				],
+				"constituent": "object"
+			}
+		],
+		"template_result": "clause",
+		"formula": "SVO",
+		"type": "declarative"
+	},
+	{
+		"tid": "sent_1",
+		"template": [
+			{
+				"flag": "obligatory",
+				"obj_id": [
+					"clause"
+				]
+			}
+		],
+		"template_result": "sent"
+	}
+]

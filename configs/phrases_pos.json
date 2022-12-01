@@ -1,0 +1,3359 @@
+[
+	{
+		"id": "aboard",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"aboard"
+				]
+			}
+		]
+	},
+	{
+		"id": "about",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"about"
+				]
+			}
+		]
+	},
+	{
+		"id": "above",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"above"
+				]
+			}
+		]
+	},
+	{
+		"id": "absent",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"absent"
+				]
+			}
+		]
+	},
+	{
+		"id": "across",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"across"
+				]
+			}
+		]
+	},
+	{
+		"id": "after",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"after"
+				]
+			},
+			{
+				"pos": "CJA",
+				"pieces": [
+					"after"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"after"
+				]
+			}
+		]
+	},
+	{
+		"id": "against",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"against"
+				]
+			}
+		]
+	},
+	{
+		"id": "along",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"along"
+				]
+			}
+		]
+	},
+	{
+		"id": "alongside",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"alongside"
+				]
+			}
+		]
+	},
+	{
+		"id": "amid",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"amid"
+				]
+			}
+		]
+	},
+	{
+		"id": "amidst",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"amidst"
+				]
+			}
+		]
+	},
+	{
+		"id": "among",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"among"
+				]
+			}
+		]
+	},
+	{
+		"id": "amongst",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"amongst"
+				]
+			}
+		]
+	},
+	{
+		"id": "around",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"around"
+				]
+			}
+		]
+	},
+	{
+		"id": "as",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "astride",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"astride"
+				]
+			}
+		]
+	},
+	{
+		"id": "at",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"at"
+				]
+			}
+		]
+	},
+	{
+		"id": "atop",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"atop"
+				]
+			}
+		]
+	},
+	{
+		"id": "before",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"before"
+				]
+			},
+			{
+				"pos": "CJA",
+				"pieces": [
+					"before"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"before"
+				]
+			}
+		]
+	},
+	{
+		"id": "afore",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"afore"
+				]
+			}
+		]
+	},
+	{
+		"id": "behind",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"behind"
+				]
+			}
+		]
+	},
+	{
+		"id": "below",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"below"
+				]
+			}
+		]
+	},
+	{
+		"id": "beneath",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"beneath"
+				]
+			}
+		]
+	},
+	{
+		"id": "beside",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"beside"
+				]
+			}
+		]
+	},
+	{
+		"id": "besides",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"besides"
+				]
+			},
+			{
+				"pos": "CJA",
+				"pieces": [
+					"besides"
+				]
+			}
+		]
+	},
+	{
+		"id": "between",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"between"
+				]
+			}
+		]
+	},
+	{
+		"id": "beyond",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"beyond"
+				]
+			}
+		]
+	},
+	{
+		"id": "by",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"by"
+				]
+			}
+		]
+	},
+	{
+		"id": "circa",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"circa"
+				]
+			}
+		]
+	},
+	{
+		"id": "despite",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"despite"
+				]
+			}
+		]
+	},
+	{
+		"id": "down",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"down"
+				]
+			}
+		]
+	},
+	{
+		"id": "during",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"during"
+				]
+			}
+		]
+	},
+	{
+		"id": "except",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"except"
+				]
+			}
+		]
+	},
+	{
+		"id": "for",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"for"
+				]
+			},
+			{
+				"pos": "CJC",
+				"pieces": [
+					"for"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"for"
+				]
+			}
+		]
+	},
+	{
+		"id": "from",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"from"
+				]
+			}
+		]
+	},
+	{
+		"id": "in",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in"
+				]
+			}
+		]
+	},
+	{
+		"id": "inside",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"inside"
+				]
+			}
+		]
+	},
+	{
+		"id": "into",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"into"
+				]
+			}
+		]
+	},
+	{
+		"id": "less",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"less"
+				]
+			}
+		]
+	},
+	{
+		"id": "like",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"like"
+				]
+			}
+		]
+	},
+	{
+		"id": "minus",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"minus"
+				]
+			}
+		]
+	},
+	{
+		"id": "near",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"near"
+				]
+			}
+		]
+	},
+	{
+		"id": "nearer",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"nearer"
+				]
+			}
+		]
+	},
+	{
+		"id": "nearest",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"nearest"
+				]
+			}
+		]
+	},
+	{
+		"id": "notwithstanding",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"notwithstanding"
+				]
+			}
+		]
+	},
+	{
+		"id": "of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "off",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"off"
+				]
+			}
+		]
+	},
+	{
+		"id": "on",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"on"
+				]
+			}
+		]
+	},
+	{
+		"id": "onto",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"onto"
+				]
+			}
+		]
+	},
+	{
+		"id": "opposite",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"opposite"
+				]
+			}
+		]
+	},
+	{
+		"id": "outside",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"outside"
+				]
+			}
+		]
+	},
+	{
+		"id": "over",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"over"
+				]
+			}
+		]
+	},
+	{
+		"id": "past",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"past"
+				]
+			}
+		]
+	},
+	{
+		"id": "per",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"per"
+				]
+			}
+		]
+	},
+	{
+		"id": "save",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"save"
+				]
+			}
+		]
+	},
+	{
+		"id": "since",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"since"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"since"
+				]
+			}
+		]
+	},
+	{
+		"id": "through",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"through"
+				]
+			}
+		]
+	},
+	{
+		"id": "throughout",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"throughout"
+				]
+			}
+		]
+	},
+	{
+		"id": "to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "toward",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"toward"
+				]
+			}
+		]
+	},
+	{
+		"id": "towards",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"towards"
+				]
+			}
+		]
+	},
+	{
+		"id": "under",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"under"
+				]
+			}
+		]
+	},
+	{
+		"id": "underneath",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"underneath"
+				]
+			}
+		]
+	},
+	{
+		"id": "until",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"until"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"until"
+				]
+			}
+		]
+	},
+	{
+		"id": "up",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"up"
+				]
+			}
+		]
+	},
+	{
+		"id": "upon",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"upon"
+				]
+			}
+		]
+	},
+	{
+		"id": "upside",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"upside"
+				]
+			}
+		]
+	},
+	{
+		"id": "versus",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"versus"
+				]
+			}
+		]
+	},
+	{
+		"id": "via",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"via"
+				]
+			}
+		]
+	},
+	{
+		"id": "with",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"with"
+				]
+			}
+		]
+	},
+	{
+		"id": "within",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"within"
+				]
+			}
+		]
+	},
+	{
+		"id": "without",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"without"
+				]
+			}
+		]
+	},
+	{
+		"id": "worth",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"worth"
+				]
+			}
+		]
+	},
+	{
+		"id": "according to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"according",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "adjacent to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"adjacent",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "ahead of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"ahead",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "apart from",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"apart",
+					"from"
+				]
+			}
+		]
+	},
+	{
+		"id": "as of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "as per",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"per"
+				]
+			}
+		]
+	},
+	{
+		"id": "as regards",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"regards"
+				]
+			}
+		]
+	},
+	{
+		"id": "aside from",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"aside",
+					"from"
+				]
+			}
+		]
+	},
+	{
+		"id": "astern of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"astern",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "back to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"back",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "because of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"because",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "close to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"close",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "due to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"due",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "except for",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"except",
+					"for"
+				]
+			}
+		]
+	},
+	{
+		"id": "far from",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"far",
+					"from"
+				]
+			}
+		]
+	},
+	{
+		"id": "inside of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"inside",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "instead of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"instead",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "left of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"left",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "near to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"near",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "next to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"next",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "opposite of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"opposite",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "opposite to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"opposite",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "out from",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"out",
+					"from"
+				]
+			}
+		]
+	},
+	{
+		"id": "out of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"out",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "outside of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"outside",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "owing to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"owing",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "prior to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"prior",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "pursuant to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"pursuant",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "rather than",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"rather",
+					"than"
+				]
+			}
+		]
+	},
+	{
+		"id": "regardless of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"regardless",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "right of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"right",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "subsequent to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"subsequent",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "such as",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"such",
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "thanks to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"thanks",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "up to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"up",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "as far as",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"far",
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "as opposed to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"opposed",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "as soon as",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"soon",
+					"as"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"as",
+					"soon",
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "as well as",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"well",
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "at the behest of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"at",
+					"the",
+					"behest",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "by means of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"by",
+					"means",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "by virtue of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"by",
+					"virtue",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "for the sake of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"for",
+					"the",
+					"sake",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in accordance with",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"accordance",
+					"with"
+				]
+			}
+		]
+	},
+	{
+		"id": "in addition to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"addition",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "in case of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"case",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in front of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"front",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in lieu of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"lieu",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in place of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"place",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in point of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"point",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in spite of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"spite",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "on account of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"on",
+					"account",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "on behalf of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"on",
+					"behalf",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "on top of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"on",
+					"top",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "with regard to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"with",
+					"regard",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "with respect to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"with",
+					"respect",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "with a view to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"with",
+					"a",
+					"view",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "anti",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"anti"
+				]
+			}
+		]
+	},
+	{
+		"id": "as for",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"for"
+				]
+			}
+		]
+	},
+	{
+		"id": "as to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"as",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "bar",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"bar"
+				]
+			}
+		]
+	},
+	{
+		"id": "barring",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"barring"
+				]
+			}
+		]
+	},
+	{
+		"id": "but for",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"but",
+					"for"
+				]
+			}
+		]
+	},
+	{
+		"id": "but",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"but"
+				]
+			},
+			{
+				"pos": "CJC",
+				"pieces": [
+					"but"
+				]
+			}
+		]
+	},
+	{
+		"id": "concerning",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"concerning"
+				]
+			}
+		]
+	},
+	{
+		"id": "considering",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"considering"
+				]
+			}
+		]
+	},
+	{
+		"id": "contrary to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"contrary",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "counting",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"counting"
+				]
+			}
+		]
+	},
+	{
+		"id": "cum",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"cum"
+				]
+			}
+		]
+	},
+	{
+		"id": "depending on",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"depending",
+					"on"
+				]
+			}
+		]
+	},
+	{
+		"id": "excepting",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"excepting"
+				]
+			}
+		]
+	},
+	{
+		"id": "excluding",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"excluding"
+				]
+			}
+		]
+	},
+	{
+		"id": "given",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"given"
+				]
+			}
+		]
+	},
+	{
+		"id": "in face of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"face",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in favor of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"favor",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in favour of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"favour",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in light of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"light",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "in view of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"view",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "including",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"including"
+				]
+			}
+		]
+	},
+	{
+		"id": "other than",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"other",
+					"than"
+				]
+			}
+		]
+	},
+	{
+		"id": "pending",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"pending"
+				]
+			}
+		]
+	},
+	{
+		"id": "plus",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"plus"
+				]
+			}
+		]
+	},
+	{
+		"id": "preparatory to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"preparatory",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "pro",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"pro"
+				]
+			}
+		]
+	},
+	{
+		"id": "re",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"re"
+				]
+			}
+		]
+	},
+	{
+		"id": "regarding",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"regarding"
+				]
+			}
+		]
+	},
+	{
+		"id": "save for",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"save",
+					"for"
+				]
+			}
+		]
+	},
+	{
+		"id": "saving",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"saving"
+				]
+			}
+		]
+	},
+	{
+		"id": "than",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"than"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"than"
+				]
+			}
+		]
+	},
+	{
+		"id": "unlike",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"unlike"
+				]
+			}
+		]
+	},
+	{
+		"id": "with reference to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"with",
+					"reference",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "ahead",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"ahead"
+				]
+			}
+		]
+	},
+	{
+		"id": "along with",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"along",
+					"with"
+				]
+			}
+		]
+	},
+	{
+		"id": "away",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"away"
+				]
+			}
+		]
+	},
+	{
+		"id": "away from",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"away",
+					"from"
+				]
+			}
+		]
+	},
+	{
+		"id": "further to",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"further",
+					"to"
+				]
+			}
+		]
+	},
+	{
+		"id": "in between",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"in",
+					"between"
+				]
+			}
+		]
+	},
+	{
+		"id": "round",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"round"
+				]
+			}
+		]
+	},
+	{
+		"id": "far",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"far"
+				]
+			}
+		]
+	},
+	{
+		"id": "forward of",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"forward",
+					"of"
+				]
+			}
+		]
+	},
+	{
+		"id": "on board",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"on",
+					"board"
+				]
+			}
+		]
+	},
+	{
+		"id": "out",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"out"
+				]
+			}
+		]
+	},
+	{
+		"id": "together with",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"together",
+					"with"
+				]
+			}
+		]
+	},
+	{
+		"id": "whether",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"whether"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whether"
+				]
+			}
+		]
+	},
+	{
+		"id": "up against",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"up",
+					"against"
+				]
+			}
+		]
+	},
+	{
+		"id": "ago",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"ago"
+				]
+			}
+		]
+	},
+	{
+		"id": "following",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"following"
+				]
+			}
+		]
+	},
+	{
+		"id": "gone",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"gone"
+				]
+			}
+		]
+	},
+	{
+		"id": "till",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"till"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"till"
+				]
+			}
+		]
+	},
+	{
+		"id": "up until",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"up",
+					"until"
+				]
+			}
+		]
+	},
+	{
+		"id": "athwart",
+		"POS": [
+			{
+				"pos": "PREP",
+				"pieces": [
+					"athwart"
+				]
+			}
+		]
+	},
+	{
+		"id": "and",
+		"POS": [
+			{
+				"pos": "CJC",
+				"pieces": [
+					"and"
+				]
+			}
+		]
+	},
+	{
+		"id": "nor",
+		"POS": [
+			{
+				"pos": "CJC",
+				"pieces": [
+					"nor"
+				]
+			}
+		]
+	},
+	{
+		"id": "or",
+		"POS": [
+			{
+				"pos": "CJC",
+				"pieces": [
+					"or"
+				]
+			}
+		]
+	},
+	{
+		"id": "yet",
+		"POS": [
+			{
+				"pos": "CJC",
+				"pieces": [
+					"yet"
+				]
+			}
+		]
+	},
+	{
+		"id": "so",
+		"POS": [
+			{
+				"pos": "CJC",
+				"pieces": [
+					"so"
+				]
+			},
+			{
+				"pos": "CJS",
+				"pieces": [
+					"so"
+				]
+			}
+		]
+	},
+	{
+		"id": "accordingly",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"accordingly"
+				]
+			}
+		]
+	},
+	{
+		"id": "also",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"also"
+				]
+			}
+		]
+	},
+	{
+		"id": "consequently",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"consequently"
+				]
+			}
+		]
+	},
+	{
+		"id": "conversely",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"conversely"
+				]
+			}
+		]
+	},
+	{
+		"id": "finally",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"finally"
+				]
+			}
+		]
+	},
+	{
+		"id": "furthermore",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"furthermore"
+				]
+			}
+		]
+	},
+	{
+		"id": "hence",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"hence"
+				]
+			}
+		]
+	},
+	{
+		"id": "however",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"however"
+				]
+			}
+		]
+	},
+	{
+		"id": "indeed",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"indeed"
+				]
+			}
+		]
+	},
+	{
+		"id": "instead",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"instead"
+				]
+			}
+		]
+	},
+	{
+		"id": "likewise",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"likewise"
+				]
+			}
+		]
+	},
+	{
+		"id": "meanwhile",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"meanwhile"
+				]
+			}
+		]
+	},
+	{
+		"id": "moreover",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"moreover"
+				]
+			}
+		]
+	},
+	{
+		"id": "nevertheless",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"nevertheless"
+				]
+			}
+		]
+	},
+	{
+		"id": "next",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"next"
+				]
+			}
+		]
+	},
+	{
+		"id": "nonetheless",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"nonetheless"
+				]
+			}
+		]
+	},
+	{
+		"id": "otherwise",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"otherwise"
+				]
+			}
+		]
+	},
+	{
+		"id": "similarly",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"similarly"
+				]
+			}
+		]
+	},
+	{
+		"id": "still",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"still"
+				]
+			}
+		]
+	},
+	{
+		"id": "subsequently",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"subsequently"
+				]
+			}
+		]
+	},
+	{
+		"id": "then",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"then"
+				]
+			}
+		]
+	},
+	{
+		"id": "therefore",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"therefore"
+				]
+			}
+		]
+	},
+	{
+		"id": "thus",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"thus"
+				]
+			}
+		]
+	},
+	{
+		"id": "whence",
+		"POS": [
+			{
+				"pos": "CJA",
+				"pieces": [
+					"whence"
+				]
+			}
+		]
+	},
+	{
+		"id": "only if",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"only",
+					"if"
+				]
+			}
+		]
+	},
+	{
+		"id": "once",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"once"
+				]
+			}
+		]
+	},
+	{
+		"id": "now that",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"now",
+					"that"
+				]
+			}
+		]
+	},
+	{
+		"id": "although",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"although"
+				]
+			}
+		]
+	},
+	{
+		"id": "as if",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"as",
+					"if"
+				]
+			}
+		]
+	},
+	{
+		"id": "as long as",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"as",
+					"long",
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "as much as",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"as",
+					"much",
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "as though",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"as",
+					"though"
+				]
+			}
+		]
+	},
+	{
+		"id": "while",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"while"
+				]
+			}
+		]
+	},
+	{
+		"id": "when",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"when"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereas",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereas"
+				]
+			}
+		]
+	},
+	{
+		"id": "whenever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whenever"
+				]
+			}
+		]
+	},
+	{
+		"id": "wherever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"wherever"
+				]
+			}
+		]
+	},
+	{
+		"id": "where",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"where"
+				]
+			}
+		]
+	},
+	{
+		"id": "who",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"who"
+				]
+			}
+		]
+	},
+	{
+		"id": "whom",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whom"
+				]
+			}
+		]
+	},
+	{
+		"id": "whose",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whose"
+				]
+			}
+		]
+	},
+	{
+		"id": "which",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"which"
+				]
+			}
+		]
+	},
+	{
+		"id": "whomever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whomever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whoever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whoever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whatsoever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whatsoever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whosever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whosever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whomso",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whomso"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereof",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereof"
+				]
+			}
+		]
+	},
+	{
+		"id": "wherewith",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"wherewith"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereunto",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereunto"
+				]
+			}
+		]
+	},
+	{
+		"id": "whichever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whichever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whosoever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whosoever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereinto",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereinto"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereto",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereto"
+				]
+			}
+		]
+	},
+	{
+		"id": "whatever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whatever"
+				]
+			}
+		]
+	},
+	{
+		"id": "wherefrom",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"wherefrom"
+				]
+			}
+		]
+	},
+	{
+		"id": "wheresoever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"wheresoever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whomsoever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whomsoever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whosesoever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whosesoever"
+				]
+			}
+		]
+	},
+	{
+		"id": "wherein",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"wherein"
+				]
+			}
+		]
+	},
+	{
+		"id": "wherewithal",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"wherewithal"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereby",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereby"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereon",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereon"
+				]
+			}
+		]
+	},
+	{
+		"id": "whichsoever",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whichsoever"
+				]
+			}
+		]
+	},
+	{
+		"id": "whoso",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whoso"
+				]
+			}
+		]
+	},
+	{
+		"id": "whereupon",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"whereupon"
+				]
+			}
+		]
+	},
+	{
+		"id": "how",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"how"
+				]
+			}
+		]
+	},
+	{
+		"id": "if",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"if"
+				]
+			}
+		]
+	},
+	{
+		"id": "in case",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"in",
+					"case"
+				]
+			}
+		]
+	},
+	{
+		"id": "in order that",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"in",
+					"order",
+					"that"
+				]
+			}
+		]
+	},
+	{
+		"id": "though",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"though"
+				]
+			}
+		]
+	},
+	{
+		"id": "even though",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"even",
+					"though"
+				]
+			}
+		]
+	},
+	{
+		"id": "even if",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"even",
+					"if"
+				]
+			}
+		]
+	},
+	{
+		"id": "because",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"because"
+				]
+			}
+		]
+	},
+	{
+		"id": "by the time",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"by",
+					"the",
+					"time"
+				]
+			}
+		]
+	},
+	{
+		"id": "unless",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"unless"
+				]
+			}
+		]
+	},
+	{
+		"id": "so that",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"so",
+					"that"
+				]
+			}
+		]
+	},
+	{
+		"id": "lest",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"lest"
+				]
+			}
+		]
+	},
+	{
+		"id": "provided that",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"provided",
+					"that"
+				]
+			}
+		]
+	},
+	{
+		"id": "that",
+		"POS": [
+			{
+				"pos": "CJS",
+				"pieces": [
+					"that"
+				]
+			}
+		]
+	},
+	{
+		"id": "not only/but also",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"not",
+					"only"
+				],
+				"pieces_a": [
+					"but",
+					"also"
+				]
+			}
+		]
+	},
+	{
+		"id": "as/as",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"as"
+				],
+				"pieces_a": [
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "both/and",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"both"
+				],
+				"pieces_a": [
+					"and"
+				]
+			}
+		]
+	},
+	{
+		"id": "either/or",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"either"
+				],
+				"pieces_a": [
+					"or"
+				]
+			}
+		]
+	},
+	{
+		"id": "whether/or",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"whether"
+				],
+				"pieces_a": [
+					"or"
+				]
+			}
+		]
+	},
+	{
+		"id": "neither/nor",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"neither"
+				],
+				"pieces_a": [
+					"nor"
+				]
+			}
+		]
+	},
+	{
+		"id": "not/but",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"not"
+				],
+				"pieces_a": [
+					"but"
+				]
+			}
+		]
+	},
+	{
+		"id": "such/that",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"such"
+				],
+				"pieces_a": [
+					"that"
+				]
+			}
+		]
+	},
+	{
+		"id": "scarcely/when",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"scarcely"
+				],
+				"pieces_a": [
+					"when"
+				]
+			}
+		]
+	},
+	{
+		"id": "as many/as",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"as",
+					"many"
+				],
+				"pieces_a": [
+					"as"
+				]
+			}
+		]
+	},
+	{
+		"id": "rather/than",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"rather"
+				],
+				"pieces_a": [
+					"than"
+				]
+			}
+		]
+	},
+	{
+		"id": "no sooner/than",
+		"POS": [
+			{
+				"pos": "CJR",
+				"pieces_b": [
+					"no",
+					"sooner"
+				],
+				"pieces_a": [
+					"than"
+				]
+			}
+		]
+	}
+]

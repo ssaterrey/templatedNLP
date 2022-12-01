@@ -1,0 +1,6968 @@
+[
+	{
+		"id": "woman",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "man",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "child",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tooth",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "foot",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "person",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "leaf",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "mouse",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "goose",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "half",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "knife",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "wife",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "life",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "elf",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "loaf",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "potato",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tomato",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cactus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "focus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "fungus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "nucleus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "syllabus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "analysis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "diagnosis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "oasis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "thesis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "crisis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "phenomenon",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "criterion",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "datum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "sheep",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "fish",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "deer",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "species",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "aircraft",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "army",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ass",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "baby",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bamboo",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bench",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bird",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "boat",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bone",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "box",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "boy",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "brother-in-law",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "buffalo",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bush",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "caddy",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "calf",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "car",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cat",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "chair",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "chief",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "city",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "class",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cliff",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "clutch",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "copy",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "country",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cow",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cry",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cuckoo",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cup",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "daughter-in-law",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "day",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "deck",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "dog",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "donkey",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "dozen",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "duty",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "essay",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "family",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "father",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "father-in-law",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "fly",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "fox",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "gas",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "glass",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hair",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hand",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hero",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hoof",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "horse",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "house",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "inch",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "jar",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "key",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "lady",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "lass",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "leg",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "loof",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "love",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "maidservant",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "mango",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "monkey",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "mother",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "mother-in-law",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "news",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ox",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "pencil",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "penny",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "pitch",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "poetry",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "proof",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "quiz",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "radio",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ray",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "river",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "scissor",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "self",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "shop",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "sister",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "sister-in-law",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "sky",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "son-in-law",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "stepson",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "story",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "table",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "thief",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "toy",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "trouser",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "uncle",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "watch",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "wish",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "door",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "match",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "book",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "piano",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "fork",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "plate",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "animal",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bottle",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "suitcase",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bag",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "orange",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "apple",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "banana",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "egg",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tree",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "dress",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "louse",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cloth",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "idea",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "friend",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "computer",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "office",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "girl",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bed",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "newspaper",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ball",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "insect",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "phone",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "artist",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "brother",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "kid",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "notebook",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "pet",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "boot",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "daughter",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "feather",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "student",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "school",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "teacher",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": "occupation"
+	},
+	{
+		"id": "waiter",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "magazine",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "chocolate",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ring",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "pilot",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "party",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "college",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bell",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "beach",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "battle",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bank",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "article",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "apartment",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "answer",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "adult",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "address",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "actor",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "account",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "accident",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "dream",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "doctor",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "crowd",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "corner",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "coat",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "club",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "cigarette",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "chest",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "chapter",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "castle",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "case",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "card",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "captain",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "camp",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bridge",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bill",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "driver",
+		"count": "",
+		"gender": "all",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "machine",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "list",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "library",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "lake",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "kitchen",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "king",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "finger",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "film",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "field",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "farm",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "factory",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "face",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "eye",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "engine",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "election",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "effect",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "edge",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ear",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "judge",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "job",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "issue",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "island",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "husband",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hour",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hotel",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hospital",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hill",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "heart",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "head",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hat",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hall",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "gun",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "group",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "gate",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "garden",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "game",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "problem",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "plant",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "plane",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "plan",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "picture",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "path",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "park",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "page",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "neck",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "nation",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "motor",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "month",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "model",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "mistake",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "minute",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "method",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "message",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "member",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "meeting",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "meal",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "town",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tour",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "thought",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tent",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "task",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "street",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "stream",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "station",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "star",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "spot",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "son",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "smile",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "shock",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "shirt",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "scheme",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "room",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "road",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "project",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "valley",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "village",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "walk",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "wall",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "week",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "window",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "year",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "addendum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "alumna",
+		"count": "",
+		"gender": "she",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "alumnus",
+		"count": "",
+		"gender": "he",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "antenna",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "antithesis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "apex",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "appendix",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "axis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bacillus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bacterium",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "basis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "beau",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bison",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "bureau",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "codex",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "concerto",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "corpus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "curriculum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "die",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "dwarf",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ellipsis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "erratum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "fez",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "formula",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "genus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "graffito",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "grouse",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "hypothesis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "index",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "larva",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "libretto",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "locus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "matrix",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "medium",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "memorandum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "minutia",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "moose",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "nebula",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "offspring",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "opus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "ovum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "parenthesis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "phylum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "radius",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "referendum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "salmon",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "scarf",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "series",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "shrimp",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "stimulus",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "stratum",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "swine",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "symposium",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "synopsis",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tableau",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "trout",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tuna",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "vertebra",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "vertex",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "vita",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "vortex",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "wharf",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "wolf",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "classics",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "economics",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "mathematics",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "physics",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "gymnastics",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "aerobics",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "measles",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "mumps",
+		"count": "singular",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "binoculars",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "headphones",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "sunglasses",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "glasses",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "scissors",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tweezers",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "jeans",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "pyjamas",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "tights",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "knickers",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "shorts",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "trousers",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "pants",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "belongings",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "outskirts",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "clothes",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "premises",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "congratulations",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "savings",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "earnings",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "stairs",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "goods",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "surroundings",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "likes",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "dislikes",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "thanks",
+		"count": "plural",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "audience",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "crew",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "public",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "committee",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "enemy",
+		"count": "",
+		"gender": "both",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "team",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "company",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	},
+	{
+		"id": "government",
+		"count": "",
+		"gender": "it",
+		"proper": "",
+		"meanings": [
+			{
+				"topic": "",
+				"properties": [],
+				"synonyms": [],
+				"antonyms": [],
+				"offensive": "",
+				"lo_generalizations": [],
+				"hi_generalizations": []
+			}
+		],
+		"category": ""
+	}
+]
